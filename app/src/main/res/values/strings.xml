@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Perpetual Calendar</string>
+    <string name="title">Perpetual</string>
+    <string name="holiday_names">Popielec:\nWielkanoc:\nBoże Ciało:\nAdwent:\n</string>
+    <string name="holiday_dates"></string>
+    <string name="button1">NIEDZIELE</string>
+    <string name="button2">DNI ROBOCZE</string>
+    <string name="dateStart">DATA POCZĄTKOWA</string>
+    <string name="dateEnd">DATA KOŃCOWA</string>
+    <string name="days_names">Dni kalendarzowych:\nDni roboczych:</string>
+    <string name="days_numbers"></string>
+    <string name="back">COFNIJ</string>
+    <string name="restart">RESTART</string>
+    <string name="message">Data początkowa musi być wcześniejsza niż końcowa</string>
+    <string name="sundays"></string>
+    <string name="sundayTitle">NIEDZIELE HANDLOWE</string>
+</resources>
